@@ -1,3 +1,4 @@
+(已修改)
 # CloudFlare-ImgBed
 
 免费图片托管解决方案，基于 Cloudflare Pages 和 Telegram （文件大小不超过20MB，过大图片会**自动压缩**）。
