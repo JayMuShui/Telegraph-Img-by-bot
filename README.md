@@ -1,4 +1,7 @@
-(已修改)
+# JayMuShui Fork 仓库后注：
+
+创建新分支master，通过重新打包Vue前端内容，覆盖原有文件后整个重新部署到master分支并设为默认仓库。
+
 # CloudFlare-ImgBed
 
 免费图片托管解决方案，基于 Cloudflare Pages 和 Telegram （文件大小不超过20MB，过大图片会**自动压缩**）。
